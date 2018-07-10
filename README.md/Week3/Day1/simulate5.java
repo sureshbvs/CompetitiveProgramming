@@ -10,7 +10,7 @@ class Solution {
     }
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
-            System.out.println( rand5());
+            System.out.print("%d", rand5());
         }
         System.out.println();
     }
